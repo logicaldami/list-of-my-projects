@@ -17,5 +17,5 @@ A collection of all my projects on GitHub.
 - <a href="https://github.com/engrshege/desktop-tutorial">Desktop Tutorial</a>
 
 ### E
-- <a href="https://github.com/engrshege/engrshege">engrshege(Github Special Repository)</a>
+- <a href="https://github.com/engrshege/engrshege">Engrshege (Github Special Repository)</a>
 
