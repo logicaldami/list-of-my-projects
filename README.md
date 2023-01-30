@@ -1,4 +1,4 @@
-# Engrshege's GitHub Projects
+# engrshege's GitHub Projects
 A collection of all my projects on GitHub.
 
 ### B
