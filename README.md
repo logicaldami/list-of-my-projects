@@ -1,7 +1,4 @@
-# list-of-my-projects
-A collection of all my projects on GitHub.
-
-# engrshege's GitHub Projects
+# Engrshege's GitHub Projects
 A collection of all my projects on GitHub.
 
 ### B
