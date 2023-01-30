@@ -10,5 +10,4 @@ A collection of all my projects on GitHub.
 
 
 ### C
-- <a href="https://github.com/">Code Magazine</a>
-- <a href="https://github.com/">Code Quiz</a>
+- <a href="https://github.com/engrshege/cv">CV</a>
