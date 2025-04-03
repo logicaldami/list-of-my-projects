@@ -10,7 +10,7 @@ A collection of all my projects on GitHub.
 - <a href="https://github.com/logicaldami/desktop-tutorial">Desktop Tutorial</a>
 
 
-### E
+### L
 - <a href="https://github.com/logicaldami/logicaldami">LogicalDami</a> (Github Special Repository)
 
 
