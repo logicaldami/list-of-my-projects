@@ -7,5 +7,5 @@ A collection of all my projects on GitHub.
 
 
 ### M
-- <a href="https://github.com/logicaldami/myportfolio">My Portfolio</a>
+- <a href="https://github.com/logicaldami/myportfolio">My Portfolio Website</a>
 - <a href="https://github.com/logicaldami/mynotes">My Notes</a>
