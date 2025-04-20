@@ -1,5 +1,5 @@
 # LogicalDami GitHub Projects
-A collection of all my projects on GitHub.
+A collection of all my important projects on GitHub.
 
 
 ### L
